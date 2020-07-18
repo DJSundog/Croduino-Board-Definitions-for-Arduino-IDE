@@ -372,63 +372,7 @@
             }
           ]
         }, 
-		{
-          "version": "2.5.0-3-20ed2b9", 
-          "name": "mkspiffs", 
-          "systems": [
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/aarch64-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "checksum": "SHA-256:5f1e6a1f0eff4522bed90c539f88efe48ecc9c9ee72b0e3cad35f8b09c334168", 
-              "host": "aarch64-linux-gnu", 
-              "archiveFileName": "aarch64-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "size": "51017"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/arm-linux-gnueabihf.mkspiffs-7fefeac.tar.gz", 
-              "checksum": "SHA-256:edc5ea2080f90f33aed84e5a9b6986bf905431e09155cdca96b648eae9656d94", 
-              "host": "arm-linux-gnueabihf", 
-              "archiveFileName": "arm-linux-gnueabihf.mkspiffs-7fefeac.tar.gz", 
-              "size": "44050"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/i686-w64-mingw32.mkspiffs-7fefeac.zip", 
-              "checksum": "SHA-256:ec661fb02c2635ac722eaaedf0a0c35474c43c72008f0ceefffb19af2f739d15", 
-              "host": "i686-mingw32", 
-              "archiveFileName": "i686-w64-mingw32.mkspiffs-7fefeac.zip", 
-              "size": "337874"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/i686-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "checksum": "SHA-256:d080b3b50ee00ac56b7204f8d08b95cd53872a2e09da590775ee631bcb279cad", 
-              "host": "i686-pc-linux-gnu", 
-              "archiveFileName": "i686-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "size": "54276"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/x86_64-apple-darwin14.mkspiffs-7fefeac.tar.gz", 
-              "checksum": "SHA-256:927cb67d045c598a9159ae16bc5fb63a20b3e23ad95eeb44702c938e6272f92f", 
-              "host": "x86_64-apple-darwin", 
-              "archiveFileName": "x86_64-apple-darwin14.mkspiffs-7fefeac.tar.gz", 
-              "size": "368554"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/x86_64-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "checksum": "SHA-256:4547bfe668090944d50af8dbf09abb5b51eb4a892b4784818f06a2274a630878", 
-              "host": "x86_64-pc-linux-gnu", 
-              "archiveFileName": "x86_64-linux-gnu.mkspiffs-7fefeac.tar.gz", 
-              "size": "52429"
-            }, 
-            {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/x86_64-w64-mingw32.mkspiffs-7fefeac.zip", 
-              "checksum": "SHA-256:0dedc3ee977af99ffd160bb304e8bfb68a8545f2d1f2e4a3b534f2ae1a49d2c9", 
-              "host": "x86_64-mingw32", 
-              "archiveFileName": "x86_64-w64-mingw32.mkspiffs-7fefeac.zip", 
-              "size": "350035"
-            }
-          ]
-        }
-				
-	]
+      ]
     }
   ]
 }
